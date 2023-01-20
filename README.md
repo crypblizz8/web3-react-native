@@ -12,3 +12,8 @@ List of Ideas to test before making it one package
 - [ ] NotAWallet: a burner seed phrase wallet + account abstraction
 - [ ] NotAWalletV2: a MPC wallet.
 - [ ] NotAWalletV3: burner / MPC Wallet to onboard people (register ENS / make swaps / buy an NFT)
+
+Make a community compiled list on Web3 And React Native
+- Resources
+- Blogs
+- Similar to how I did awesome-aa. 
