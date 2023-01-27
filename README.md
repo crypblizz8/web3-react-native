@@ -3,6 +3,7 @@ The one package library for web3 and react native development
 
 ## Overview
 - Inspired by [create-react-native-dapp](https://github.com/cawfree/create-react-native-dapp) (400+ stars) however not supported as much atm.
+- We have the infastructure to quickly boostrap Wallets and Dapps on mobile but no one template / starter package for it. 
 - Cool wallets such as Rainbow, Showtime and many more are built on RN.
 - Create a `npx` type of package to install either a `wallet` or `dapp` template in react native
 
