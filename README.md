@@ -30,6 +30,8 @@ To test before making it one package
 - [ ] Wagmi + ConnectKit
 
 Later
+- [ ] WalletConnect Chat
+- [ ] WalletConnect Push
 - [ ] Wagmi + RainbowKit
 - [ ] NotAWallet: a burner seed phrase wallet + account abstraction
 - [ ] NotAWalletV2: a MPC wallet.
