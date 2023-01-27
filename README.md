@@ -14,7 +14,7 @@ npx create-web3-react-native@latest --dapp
 Wallet Side
 - Creates a simple Expo app with a random mnemonic seed phrase
 - Uses WalletConnect SignV2 and Auth for connection
-- Futher down the line could add more falg options to include packages such as `react-native-lens-ui-kit`
+- Futher down the line could add more falg options to include packages such as `npx create-web3-react-native@latest --dapp react-native-lens-ui-kit`
 
 Dapp Side
 - Will be supported via either `react-native-dapp`, `web3modalv2` (soon) or `connectkit`
