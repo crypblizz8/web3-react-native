@@ -2,7 +2,7 @@
 The one package library for web3 and react native development
 
 Overview
-- Inspired by [create-react-native-dapp](https://github.com/cawfree/create-react-native-dapp)
+- Inspired by [create-react-native-dapp](https://github.com/cawfree/create-react-native-dapp) however not supported as much atm.
 - Cool wallets such as Rainbow, Showtime and many more are built on RN.
 - Create a npx type of package to install either a wallet or dapp creation in react native
 
